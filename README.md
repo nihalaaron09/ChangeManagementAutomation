@@ -5,7 +5,7 @@ While details cannot be disclosed, a very high level decription would suffice.
 
 ###Motiviation###
 Every weekend, our team is involved with multiple other Operation teams at BLK, to conduct housekeeping changes such as netowrk and switch upgrades, Windows and Unix servers patches,
-DR tests, recorder maintainence, etc.
+DR tests, site powerdowns, etc.
 The job of curating all changes that our team is involved in, assigning resources to assist with completion of these changes, troubleshoot when necessary and monitor changes by external groups that might involve our systems is part our BAU responsibilities.
 Every Tuesday and Wednesday, our team needs to obtain a list of such changes (both, internal and external) after fitlering out changes that we would be interested in, and assign resources. 
 Keyword based filtering frequently need be ammended as well, as infrastructure changes happen frequently.
